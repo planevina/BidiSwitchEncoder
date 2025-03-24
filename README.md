@@ -12,6 +12,6 @@ Supports common toggle switches (like ALPS SSCM110100).
 
 Detects rotation direction (CW/CCW) via switch state changes.
 
-Lightweight and interrupt-friendly for real-time applications.
+Lightweight for real-time applications.
 
 Hardware-agnostic library to emulate rotary encoders using momentary toggle switches, with debouncing and direction detection.
