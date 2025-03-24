@@ -16,4 +16,4 @@ Detects rotation direction (CW/CCW) via switch state changes.
 
 Lightweight for real-time applications.
 
-Library to emulate rotary encoders using momentary toggle switches, with debouncing and direction detection.
+With debouncing and direction detection.
